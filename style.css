@@ -55,8 +55,12 @@ body{
     margin: 0px 150px;
 }
 #button_translate{
-    background-color: var(--primary-color);
+    background-color: #94bff3;
     padding: 0.6rem;
     width: 240px;
     font-family: 'Fuzzy Bubbles', cursive;
+}
+
+#button_translate:hover{
+    background-color: var(--primary-color)
 }
