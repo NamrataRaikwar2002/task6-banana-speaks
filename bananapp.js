@@ -1,6 +1,8 @@
 var button_trans=document.querySelector('#button_translate')
 var textinput=document.querySelector("#textarea")
 var output=document.querySelector('#output')
+// console.log(textinput.value)
+console.log(output.value)
 
 // console.log(output)
 var  serverURl="https://api.funtranslations.com/translate/minion.json"
